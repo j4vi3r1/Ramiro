@@ -30,7 +30,7 @@ var lyricsData = [
   { text: "Lindas mariposas en mis manos", time: 176 },
   { text: "Demasiada luz para el crepúsculo", time: 183 },
   { text: "Con ganas de flores", time: 188 },
-  { text: "Amor.", time: 140 },
+  { text: "Amor", time: 140 },
 ];
 
 // Animar las letras
